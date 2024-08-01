@@ -11,7 +11,8 @@ export function About() {
                 <ul className={styles.aboutItems}>
                     <li className={styles.aboutItem}>
                         <h3>Frontend Developer</h3>
-                        <p>I'm a frontend developer with 5 years of experience in bulding responsive sites. </p>
+                        <p>I have 7 years of experience in software development, with 5 years dedicated to frontend developement in bulding responsive sites, and 2 years in SAP ABAP.
+                        </p>
                     </li>
                 </ul>
                 <li className={styles.aboutItem}>
