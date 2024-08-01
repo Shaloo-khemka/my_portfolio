@@ -11,7 +11,7 @@ export function About() {
                 <ul className={styles.aboutItems}>
                     <li className={styles.aboutItem}>
                         <h3>Frontend Developer</h3>
-                        <p>I'm a frontend developer with 5 years of experience using Javascript and React</p>
+                        <p>I'm a frontend developer with 5 years of experience using JavaScript and React</p>
                     </li>
                 </ul>
                 <li className={styles.aboutItem}>
