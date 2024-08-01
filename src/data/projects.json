@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Budget Tracking App",
+        "imageSrc": "projects/project.png",
+        "description": "",
+        "skills": [
+            "React",
+            "Bootstrap",
+            "Context API",
+            "React-Router-DOM"
+        ],
+        "source": "",
+        "demo": ""
+    },
+    {
+        "title": "Shopping Cart",
+        "imageSrc": "projects/project.png",
+        "description": "",
+        "skills": [
+            "React",
+            "Bootstrap",
+            "Context API",
+            "React-Router-DOM"
+        ],
+        "source": "",
+        "demo": ""
+    }
+]
