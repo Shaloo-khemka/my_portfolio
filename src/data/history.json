@@ -1,5 +1,11 @@
 [
     {
+        "role": "Software Enginner",
+        "organisation": "NCR Voyix",
+        "startDate": "June 2025",
+        "endDate": "Present"
+    },
+    {
         "role": "Senior Software Enginner",
         "organisation": "91Social",
         "startDate": "April 2021",
@@ -13,7 +19,7 @@
     },
     {
         "role": "Software Enginner",
-        "organisation": "91Social",
+        "organisation": "Accenture",
         "startDate": "January 2017",
         "endDate": "April 2019"
     }
